@@ -1,0 +1,6 @@
+c:\users\dominic\documents\visual studio 2015\Projects\p2pdnsd\p2pdnsd\bin\Debug\p2pdnsd.exe.config
+C:\Users\Dominic\documents\visual studio 2015\Projects\p2pdnsd\p2pdnsd\bin\Debug\p2pdnsd.exe
+C:\Users\Dominic\documents\visual studio 2015\Projects\p2pdnsd\p2pdnsd\bin\Debug\p2pdnsd.pdb
+C:\Users\Dominic\documents\visual studio 2015\Projects\p2pdnsd\p2pdnsd\obj\Debug\p2pdnsd.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\documents\visual studio 2015\Projects\p2pdnsd\p2pdnsd\obj\Debug\p2pdnsd.exe
+C:\Users\Dominic\documents\visual studio 2015\Projects\p2pdnsd\p2pdnsd\obj\Debug\p2pdnsd.pdb
